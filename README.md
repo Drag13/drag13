@@ -9,6 +9,7 @@ My name is Vitaliy and I am full-stack web developer. Mostly work with React/Ang
 - 🌱 I’m currently learning [F#](https://fsharpforfunandprofit.com/). It's really fun! 
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: You never know before you measure
+- ✉️ Feel free to contact me via [twitter](https://twitter.com/drag137)
 
 ## Projects
 
