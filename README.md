@@ -16,6 +16,7 @@ My name is Vitaliy and I am full-stack web developer. Mostly work with React/Ang
 * [@drag13/round-to](https://www.npmjs.com/package/@drag13/round-to) [![npm](https://img.shields.io/npm/dt/@drag13/round-to.svg)](https://www.npmjs.com/package/@drag13/round-to)
 * [perfrunner](https://www.npmjs.com/package/perfrunner) ![npm](https://img.shields.io/npm/dw/perfrunner)
 * [when-do](https://www.npmjs.com/package/@drag13/round-to) [![npm](https://img.shields.io/npm/dt/@drag13/when-do.svg)](https://github.com/Drag13/WhenDo)
+* [floc-off](https://www.npmjs.com/package/floc-off) ![https://img.shields.io/npm/dm/floc-off](https://img.shields.io/npm/dm/floc-off)
 * [habrosanitizer](https://chrome.google.com/webstore/detail/habrosanitizer-for-habrah/gnbmgdpmmddeegooghfhjlchocllcgpc) ![https://img.shields.io/chrome-web-store/rating/gnbmgdpmmddeegooghfhjlchocllcgpc?label=Chrome%20Rating](https://img.shields.io/chrome-web-store/rating/gnbmgdpmmddeegooghfhjlchocllcgpc?label=Chrome%20Rating) ![https://img.shields.io/amo/rating/habrosanitizer?label=Mozilla%20Rating](https://img.shields.io/amo/rating/habrosanitizer?label=Mozilla%20Rating)
 
 
