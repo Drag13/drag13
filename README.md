@@ -1,3 +1,4 @@
+![StandsWithUkraine](https://github.com/Drag13/drag13.github.io/blob/development/swu.PNG)
 # Hi there 👋
 
 ## Drag13: about me
