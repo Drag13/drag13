@@ -6,7 +6,7 @@
 
 My name is Vitaliy and I am full-stack web developer. Mostly work with React/Angular and TypeScript for frontend + .NET for backend + MSSQL as DataBase. Love #WebSecurity and #WebPerformance.
 
-- 🔭 I’m currently working on the [perfrunner](https://github.com/Drag13/perfrunner) - performance testing tool for the websites
+- 🔭 I’m currently working on the [free React course for beginners](https://github.com/Drag13/react-learning-course-short)
 - 💬 I have the [personal blog](https://drag13.io/) about JavaScript. I aslo writing about webperformance and security
 - 🌱 I’m currently learning [F#](https://fsharpforfunandprofit.com/). It's really fun! 
 - 😄 Pronouns: ... He/Him
